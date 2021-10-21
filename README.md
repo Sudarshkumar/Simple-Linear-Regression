@@ -1,1 +1,1 @@
-# Simple-Linear-Regression
+# simplelinear-regression-for-heights-and-weights
